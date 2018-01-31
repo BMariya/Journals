@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="button_height">120dp</dimen>
+    <dimen name="list_item_separator">2dp</dimen>
+    <dimen name="list_item_padding">10dp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Journals</string>
+
+    <string name="button_journal_new">NEW</string>
+    <string name="button_journal_archive">ARCHIVE</string>
+
+    <string name="dialog_confirm_delete">Delete item?</string>
+    <string name="dialog_confirm_yes">Yes</string>
+    <string name="dialog_confirm_cancel">Cancel</string>
+</resources>
